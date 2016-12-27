@@ -1,0 +1,127 @@
+﻿  flightsim.c
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(62): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(79): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(83): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(105): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(106): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(113): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(115): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(143): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(149): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(232): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(234): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(236): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(238): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(250): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(263): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(267): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(290): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(300): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(310): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(320): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(330): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(340): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(350): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(370): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(378): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(382): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(393): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(403): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(424): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(442): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(460): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(485): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(487): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(505): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(507): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(524): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(526): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(544): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(546): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(596): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(600): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(609): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(613): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(633): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(638): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(664): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(665): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(667): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(674): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(676): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(696): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(697): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(699): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(705): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(692): warning C4101: 'temp': unreferenced local variable
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(740): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(741): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(743): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(749): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(736): warning C4101: 'temp': unreferenced local variable
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(784): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(785): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(787): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(793): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(780): warning C4101: 'temp': unreferenced local variable
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(823): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(834): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(904): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(905): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(906): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(908): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(910): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(912): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(914): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(916): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1088): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1089): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1106): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1108): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1219): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1220): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1222): warning C4244: 'function': conversion from 'GLfloat' to 'GLsizei', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1294): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1299): warning C4244: '=': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1382): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1415): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1416): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1417): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1418): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1555): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1563): warning C4244: 'function': conversion from 'GLfloat' to 'int', possible loss of data
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1568): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1570): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1574): warning C4113: 'void (__cdecl *)(unsigned char)' differs in parameter lists from 'void (__cdecl *)(unsigned char,int,int)'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1576): warning C4113: 'void (__cdecl *)(unsigned char)' differs in parameter lists from 'void (__cdecl *)(int,int,int)'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1577): warning C4113: 'void (__cdecl *)(unsigned char)' differs in parameter lists from 'void (__cdecl *)(int,int,int)'
+c:\users\liam\desktop\liam gowan's csci 3161 project\csci 3161 final project\csci 3161 final project\flightsim.c(1579): warning C4113: 'void (__cdecl *)(int)' differs in parameter lists from 'void (__cdecl *)(int,int)'
+  CSCI 3161 Final Project.vcxproj -> C:\Users\liam\Desktop\Liam Gowan's CSCI 3161 Project\CSCI 3161 Final Project\Debug\CSCI 3161 Final Project.exe
+  CSCI 3161 Final Project.vcxproj -> C:\Users\liam\Desktop\Liam Gowan's CSCI 3161 Project\CSCI 3161 Final Project\Debug\CSCI 3161 Final Project.pdb (Full PDB)

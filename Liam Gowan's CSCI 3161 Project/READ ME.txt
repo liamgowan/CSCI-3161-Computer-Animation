@@ -1,0 +1,42 @@
+/************************************************************************
+File:			flightsim.c
+
+Description: This is a C program that uses OpenGL to create a flight 
+simulator. The program reads in a .txt file and builds and colours a plane
+out of it. The altitude of the plane can be changed by using the up and 
+down keys. The speed of the plane can be changed by using page up and page
+down, however they plane cannot move at a speed of less than 0.05. The 
+propeller speed moves with the speed of the plane. By pressing the 's' key, 
+you can toggle between a sea/sky view and a grid view mode. The sea and sky
+are a disk and cylinder, respectively, that have a .PPM texture wrapped 
+around them. Wire frame and solid rendering can be toggled by pressing 'w'.
+By pressing 'f', you will switch between full screen and windowed mode. 
+Pressing 'q' will quit the program. You can move the camera left and right
+depending on where your cursor is. Lighting has been used in this project
+to make things look 3D. Fog on the ocean can be toggled by pressing the 'b'
+key. This program does create mountains that are made from streched cylinders 
+in the shape of cones. The mountain texturing can be toggled using 't', and
+the mountains can be toggled themselves by pressing 'm'.
+
+Bonus: The bonus parts are as follows: By pressing 'a', a bomb will drop 
+from the plane and when it gets to y=0, the sea will flash red. By pressing
+'v' the plane will engage in a vertical take off. By pressing 'n', the 
+plane will nose dive. By pressing 'c', the plane will spin out of control 
+and when y=0 the program will exit. Pressing 'd' toggles a sunset. Pressing
+'i' toggles a Great Britain plane insignia. Pressing 'd' will draw missiles 
+on the wings. Pressing 'o' will shoot the missiles, and once they have reached 
+a certain distance they will then respawn back on the wings. Also, when the 
+altitude is changing, the plane will tilt on the z axis appropriately. 
+
+Author: Liam Gowan B00673126
+Note: This program uses some ideas discussed from the course website.
+It also uses .txt and .ppm files found on the project page.
+following links:
+
+*************************************************************************/
+
+NOTE: The source code for this program can be found by clicking 'CSCI 3161
+Final Project', 'CSCI 3161 Final Project' (again), and then flightsim (it 
+is a C file.
+
+Thank you and enjoy. 

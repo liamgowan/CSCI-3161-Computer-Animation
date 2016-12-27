@@ -1,0 +1,62 @@
+﻿  solarsystem.c
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(102): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(130): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(131): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(132): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(198): warning C4244: 'function': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(254): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(256): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(258): warning C4244: 'function': conversion from 'int' to 'float', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(260): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(262): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(262): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(264): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(264): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(266): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(268): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(270): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(270): warning C4305: 'function': truncation from 'double' to 'float'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(241): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(242): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(244): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(245): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(246): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(247): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(248): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(249): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(279): warning C4013: 'time' undefined; assuming extern returning int
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(334): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(365): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(366): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(367): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(369): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(370): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(372): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(396): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(397): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(400): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(403): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(404): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(416): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(430): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(434): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(460): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(480): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(494): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(498): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(511): warning C4244: 'function': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(519): warning C4305: 'function': truncation from 'double' to 'GLfloat'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(687): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(773): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(776): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(777): warning C4113: 'void (__cdecl *)()' differs in parameter lists from 'void (__cdecl *)(void)'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(785): warning C4113: 'void (__cdecl *)(int)' differs in parameter lists from 'void (__cdecl *)(int,int,int)'
+c:\users\liam\desktop\solarsystem\solarsystem\solarsystem.c(786): warning C4113: 'void (__cdecl *)(int)' differs in parameter lists from 'void (__cdecl *)(int,int,int)'
+  SolarSystem.vcxproj -> C:\Users\liam\Desktop\SolarSystem\x64\Debug\SolarSystem.exe
+  SolarSystem.vcxproj -> C:\Users\liam\Desktop\SolarSystem\x64\Debug\SolarSystem.pdb (Full PDB)
